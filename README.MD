@@ -6,7 +6,7 @@ $ npm install --global upload-node-app-s3
 
 ## Usage CLI
 ```
-$ cat-names --help
+$ upload-node-app-s3 --help
 
   Package to upload node app compilation to AWS S3
 

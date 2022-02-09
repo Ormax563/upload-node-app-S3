@@ -1,6 +1,6 @@
 {
   "name": "upload-node-app-s3",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Package to upload node app compilation to AWS S3",
   "type": "module",
   "dependencies": {
