@@ -1,0 +1,32 @@
+{
+  "name": "upload-node-app-s3",
+  "version": "1.0.7",
+  "description": "Package to upload node app compilation to AWS S3",
+  "type": "module",
+  "dependencies": {
+    "aws-sdk": "^2.1069.0",
+    "meow": "^10.1.2",
+    "mime": "^3.0.0"
+  },
+  "bin": "cli.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ormax563/upload-node-app-S3.git"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "AWS-S3",
+    "node-compilation"
+  ],
+  "author": "Jesus Ormaza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ormax563/upload-node-app-S3/issues"
+  },
+  "homepage": "https://github.com/Ormax563/upload-node-app-S3#readme"
+}
